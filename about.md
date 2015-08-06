@@ -13,7 +13,7 @@ experience with design and development of Ad Networks, Payment Systems, E-commer
 Fashion websites, DWH/DWA systems, Mobile applications and API platforms. Looking to work on new age products
 that use technology to solve problems.
 
-##### Contact
-* Twitter: [@lakshaypandey](https://twitter.com/lakshaypandey) 
-* Instagram: [@lakshaypandey](https://instagram.com/lakshaypandey/)
-* Linkedin: [Lakshay Pandey](https://in.linkedin.com/in/lakshaypandey)
+#### Contact
+* **Twitter**: [@lakshaypandey](https://twitter.com/lakshaypandey) 
+* **Instagram**: [@lakshaypandey](https://instagram.com/lakshaypandey/)
+* **Linkedin**: [Lakshay Pandey](https://in.linkedin.com/in/lakshaypandey)
