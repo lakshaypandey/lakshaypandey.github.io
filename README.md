@@ -1,14 +1,18 @@
-# Jekyll-Pithy
+# Polar Bear
+An open source minimal theme for Jekyll, ideal for blogging.
 
-Jekyll-Pithy is a theme for Jekyll. Here is [my blog](http://wenva.github.io) which use this theme.
+View the demo at http://diezcami.github.io/polar-bear-theme
 
-![image](https://raw.githubusercontent.com/smallmuou/Jekyll-Pithy/master/images/Jekyll-Pithy.png)
+## Contribute
+Please submit **open issues** for bugs or TBA features that haven't been documented yet! Feel free to submit pull requests for any existing issues.
 
-### Usage
-* Clone it.
-* cd Jekyll-Pithy, and Run "jekyll serve"(You must install [jekyll](http://jekyllrb.com/) first)
-* Open web browser and enter "http://127.0.0.1:4000/", you can see the web page like snapshot above.
-* If you want to host you blog on Github Page, you can follow the steps provide by Github.
+## License
+The MIT License (MIT)
 
-### License
-The code follows MIT License.
+Copyright (c) 2015 Camille Diez
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
