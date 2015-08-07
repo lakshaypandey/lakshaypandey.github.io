@@ -1,20 +1,37 @@
 ---
 layout: default
+title: Home
 ---
 
-<div class="home">
-<article class="post-content">
-<p>Currently managing mobile products <a href="https://www.jabong.com">@Jabong</a>. Ex <a href="https://www.paytm.com">@Paytm</a> <a href="https://www.zomato.com">@Zomato</a>.
-<br/>
-Computer Science Grad from <a href="https://www.iiitd.ac.in">@IIIT-Delhi</a></p>
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
 
-<p>Interested in developing products that solve problems for customers using new age technology. I have had
-experience with design and development of Ad Networks, Payment Systems, E-commerce/M-commerce websites,
-Fashion websites, DWH/DWA systems, Mobile applications and API platforms. Looking to work on new age products
-that use technology to solve problems.</p>
+    <span class="post-date">{{ post.date | date_to_string }}</span>
 
-<p>If any of that ^^ sounds remotely interesting, drop me a line on any of the mediums on the header.
-
-
-  </article>
+    {{ post.content }}
   </div>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>

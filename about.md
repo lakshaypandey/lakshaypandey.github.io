@@ -1,19 +1,30 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
-Currently managing mobile products [@Jabong](https://www.jabong.com). Ex [@Paytm](https://www.paytm.com) [@Zomato](https://www.zomato.com). 
+<p class="message">
+  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+</p>
 
-Computer Science Grad from [@IIIT-Delhi](https://www.iiitd.ac.in) 
+In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-I am interested in developing products that solve problems for customers using new age technology. I have had
-experience with design and development of Ad Networks, Payment Systems, E-commerce/M-commerce websites,
-Fashion websites, DWH/DWA systems, Mobile applications and API platforms. Looking to work on new age products
-that use technology to solve problems.
+There are currently two themes built on Poole:
 
-#### Contact
-* **Twitter**: [@lakshaypandey](https://twitter.com/lakshaypandey) 
-* **Instagram**: [@lakshaypandey](https://instagram.com/lakshaypandey/)
-* **Linkedin**: [Lakshay Pandey](https://in.linkedin.com/in/lakshaypandey)
+* [Hyde](http://hyde.getpoole.com)
+* [Lanyon](http://lanyon.getpoole.com)
+
+Learn more and contribute on [GitHub](https://github.com/poole).
+
+## Setup
+
+Some fun facts about the setup of this project include:
+
+* Built for [Jekyll](http://jekyllrb.com)
+* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
+* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+
+Thanks for reading!
