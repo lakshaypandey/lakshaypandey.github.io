@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lakshay Pandey</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 07 Aug 2015 13:37:20 +0530</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2015 13:37:20 +0530</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 09 Apr 2015 16:53:32 +0530</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/04/09/welcome-to-jekyll%20copy.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/04/09/welcome-to-jekyll%20copy.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Bored Winter/Spring Ramblings</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://images.sodahead.com/polls/002313913/1610288764_bored_kid_xlarge.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;*&lt;em&gt;Fair warning this post is going to be weird. This is like my second semi-serious post. Mostly my argument on a point on which the whole world seems to disagree with me and this gives me a way to throw it out&lt;/em&gt; *&lt;/p&gt;
+
+&lt;p&gt;This is mostly a result of a long sequence of events that are to be left for another post. But for the purposes of this post, I will give you a brief summary, the last 6 months have been  pathetically boring and irritating. Everything has been trying to go _kaput. _&lt;/p&gt;
+
+&lt;p&gt;In the midst of this I have been caught up quite a few people wanting to TALK. The talk is called TALK as it usually happens after some major screw-up. Now all of this is fine but the problem arises when the TALK involves arguments or reasons which are full of assumptions about me. Since I am trying to keep this post bias-free I will not mention the fact that those assumptions are usually wrong and completely absurd. &lt;/p&gt;
+
+&lt;p&gt;Now I have made much of a hoola above without actually stating my argument. Well it is very hard to explain it in written word but I will give it my best shot.&lt;/p&gt;
+
+&lt;p&gt;Here goes, well the issue is that aside from these 6 months too I have had many arguments with people wherein there are two parts to it. The first being that I am rude to people. The other part of the argument is about whether you really need to say understood stuff.
+I will come to each of those arguments one at a time. But before that I will say this, I have no issue with people calling me rude but people who know me and appropriate reasoning for it not any idiot with an opinion.&lt;/p&gt;
+
+&lt;p&gt;Now the second argument is the precondition for the first so we will start with it. This has been brewing in my head for a long time now but a very recent talk just reinforced my opinion. People usually have a weird expectation of talking about understood stuff which is beyond me. I mean stuff that is understood is expected to be said and then I am the inconsiderate one. This is not just true with my friends but my family too. I mean I rarely call my parents up and ask them to just talk in fact not rarely more like never( Some part of it also due to me being generally uncomfortable whilst talking on the phone ). Most of my friends find that odd whereas I find randomly calling up my mother/father and then asking them whatsup. The most ridiculous argument to this is not caring about them. You idiotheads, it is my parents I expect them to be comfortable enough with me to call me up and tell me if there is an issue and not need me to call them on the phone to tell them I love them. They already know it and it does not change and so is the case with my “Friends”. I mean all the nicey nice stuff, shouldn’t it be implied. That is why we are friends in the first place. Some of this is also because of me not really getting the hang of so called “&lt;em&gt;Emotions&lt;/em&gt;”. I like to take them out of the equation and bring stuff down to simpler choices without the randomness that emotional decisions being(Which I don’t really get). Very often than not I try to get conversations away from the confusing emotional aspects to clear rationale decisions and people take that up for me being cold or too rationale. Why in the world would people not want to take the simpler route is beyond me. And this is not a one off case it happens all the time. People are hell bent on over-thinking stuff.&lt;/p&gt;
+
+&lt;p&gt;Now what this leads to is that I come off as rude and impatient to people. And this view is highly endorsed by my friends. The rude part of this is absolutely correct but not the reason for it. None of them can come up with a reason for why something morally wrong that I might have done to them, but all of them will call me rude and inconsiderate. Their reasons for that is me never having those abovementioned conversations but then my point is to people whom I know well enough that shouldn’t be needed now.  Again I am rude and inconsiderate no doubt, but that is to very few people. To the people that I know well enough, I usually know how far can I push them, that allows me to take certain leeway with them. This may come off as inconsiderate I agree but then my argument is why do you have to judge things by how I speak rather than what I do ? I have almost never (to the best of my knowledge) willingly done something wrong to anybody. But even then most people would clarify me as the jerk. This opinion is usually born of the fact that I will be as impolite with people as I know they will tolerate. I will never enquire into stuff about them. But this ignores the fact that I would be the first to value privacy/individual space as well as allowing them the same leeway with me.&lt;/p&gt;
+
+&lt;p&gt;Now it is very hard to make it not sound like a cry-baby post but it more of a question rather than a lashing out. I really don’t mind what people think of me but yeah if it is abundantly clear that quite a few think wrong because of the same reason then sometimes I wonder whether people just don’t like simpler things and it is better to go with the tide?&lt;/p&gt;
+
+&lt;p&gt;PS: Liverpool won the Carling Cup , hope that leads to better times.&lt;/p&gt;
+
+&lt;p&gt;PPS: Somebody got any links to get me a job in the Summer ?&lt;/p&gt;
+
+&lt;p&gt;PPPS: Somebody willing to lend me their Private Plane to Hyderabad ?&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 01 Mar 2012 23:24:03 +0530</pubDate>
+        <link>http://yourdomain.com/being%20rude/me/2012/03/01/bored-winterspring-ramblings.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/being%20rude/me/2012/03/01/bored-winterspring-ramblings.html</guid>
+        
+        <category>argument</category>
+        
+        <category>Bored</category>
+        
+        <category>philosophy</category>
+        
+        <category>Ramblings</category>
+        
+        <category>Spring</category>
+        
+        <category>Winter</category>
+        
+        
+        <category>being rude</category>
+        
+        <category>me</category>
+        
+      </item>
+    
+      <item>
+        <title>The Smell of Fresh Books</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://www.dadcando.com/Making/TheDragonry/Images/SecretBoxBook1-1000.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I just recently got an email saying, but an eBook reader on discount. It seems Barnes and Noble is selling the Nook at a much discounted rate before, which is now basically about Rs.5000. This just to clear stocks before they come out with their new color version of it.&lt;/p&gt;
+
+&lt;p&gt;I have been toying with the idea of buying an eBook reader for about 18 months now. Every time I decide that I am going to buy one, somebody tells me something which makes me change my decision. Now the thing is that I now feel that at the bottom of my heart I just don’t want to. The thing is first of all they are expensive, for the price of an eBook reader; I can buy quite a few books.&lt;/p&gt;
+
+&lt;p&gt;Besides all this the major reason is that I have now been a vociferous reader (Yeah you got me, I just love to show off my vocabulary!) for at least 10 years and the one thing I can tell you that an eBook in whatever format or device just can’t beat the love of holding the book.&lt;/p&gt;
+
+&lt;p&gt;There are so many things that a book has which you just can’t replicate in a device. The feel of turning pages, being able to see a shelf just filled with books (you have got to agree seeing a folder full of eBooks on a pc is nothing compared to the joy of seeing a shelf fool of books in front of you, it’s just so damn beautiful.) not having to charge a book, being able to take it with you to your bed and not being concerned with it falling off in the night but the biggest and the best thing is the smell.&lt;/p&gt;
+
+&lt;p&gt;An eBook reader can have all the features in the world, hell even if it read my mind, the smell of a new book is more tempting than any feature you put in to an E-Book Reader.(Wouldn’t it  be an amazing business idea to add something like a perfume add-on for a kindle or a Nook that gave the smell of fresh book, now that would sell).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://coolfacts.in/wp-content/uploads/2011/04/pile_of_books.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Let me tell you the feeling of holding the book in my hand and the smell of fresh paper is the only thing that’s stopping me from buying an EBook reader. It sure does have its advantages, less cumbersome, easier to manage one small device than maintaining a whole collection of books and if you love the environment then the save paper thing might appeal to you but then the battery and electricity and the plastics will balance it out.&lt;/p&gt;
+
+&lt;p&gt;Just to conclude you just can’t beat the feeling of holding an actual book in your hand and getting lost in its world so screw all those stupid devices and get back the bookstores with their coffee tables.&lt;/p&gt;
+
+&lt;p&gt;Ps: This is me in my anti EBook Reader Phase, that might soon change and I might have a post opposing this one heck I might even buy one so do excuse me for being a hypocrite ! :D&lt;/p&gt;
+
+&lt;p&gt;PPS: comment if you love actual real life paper books.&lt;/p&gt;
+
+&lt;p&gt;PPS:  Do tell me if you know a book store in Delhi that serves good coffee too !&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Jun 2011 15:45:22 +0530</pubDate>
+        <link>http://yourdomain.com/2011/06/01/the-smell-of-fresh-books.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2011/06/01/the-smell-of-fresh-books.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Barca Story</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://www.you-stylish-barcelona-apartments.com/blog/wp-content/uploads/2011/11/barcelona-fc2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;* Please excuse me if the thoughts don’t seem coherent, they were messed up in my mind to and clearing them up was too much effort.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This whole idea was already on my mind from long but the recent Champion’s League Final just brought it up again.&lt;/p&gt;
+
+&lt;p&gt;Actually not the UCL final, it were the reactions after it. Even though I agree that Barcelona were the superior team there I have a problem with their being compared to one of the best ever sides. I think they have a lot to prove before that.&lt;/p&gt;
+
+&lt;p&gt;The things that support this are they have won almost all the trophies there are to play, they play some of the most beautiful football there is to play, they have some of the best players in the world in fact I think 8 of their first 11 can claim to be one of the best in their positions (I exclude Eric Abidal, Pedro and Valdes, just my view). They also have a coach who understands their mentality and theirs is the brand of Football that just about drove Spain to Euro and World Cup Glories.&lt;/p&gt;
+
+&lt;p&gt;(Add things people if I have missed something)&lt;/p&gt;
+
+&lt;p&gt;I agree to almost all of the things said here but I have a problem with people calling them one of the best sides there ever was.&lt;/p&gt;
+
+&lt;p&gt;Well firstly I want to point out winning the La Liga might not be the easiest thing to do but you have to agree it isn’t the hardest thing to do either. I mean when effectively there is only one team out of the 19 others that can actually compete with you then according to me not winning the 36 other matches is something more noteworthy than winning the league and the losses were against Hercules and Real Sociebad not the most fearsome teams in Europe I would say. You know Arsenal managed an unbeaten season in the EPL where there are at least 3 if not 6-7 teams that can actually give you competition.&lt;/p&gt;
+
+&lt;p&gt;Even in Spain they played 5 matches against Real Madrid this Year out of which the record is W2 L1 D2 agreed they have an edge but it isn’t the world beating edge. Now many will point out that they did thrash Madrid in the first clasico of the season but firstly I am not a firm believer in the idea that the scoreline signifies something, it’s only the result that matters according to me.&lt;/p&gt;
+
+&lt;p&gt;You see the only point here being is that for any Spanish team to be considered one of the greatest ever the La Liga is certainly never a benchmark.&lt;/p&gt;
+
+&lt;p&gt;Now coming to the European competition, Barcelona have certainly been in the best of forms, 3 trophies in 6 years but again here we are not really considering the 2006 victory as that was a very different team that played for Barcelona then, then main focus here is the 2009 and the 2011 campaign. Here also we must remember that Mourinho in between all his ramblings did have some noteworthy points after the first leg in the UCL. He did remind me of _Mad Eye Moody _from Harry Potter in that interview, just because he rambles every time this one time when he actually had a point  people ignored him. This season for Barcelona in the UCL I would not even try to talk about their Group Stage, the other members of the Group being, FC Copenhagen, Rubin Kazan and Pananthinaikos (hope I got the spelling right) here we can all agree that the biggest challenge that the Barcelona players could have faced was trying to point out their opposition teams on the map rather than the football. The knock-out rounds also only had 4 matches to note as we can safely say that Shaktar Donetsk though spectacular are not that big a force yet. In the Four matches Barcelona results say W2 D1 L1 and if you ask me until the referee had committed the hara-kiri Arsenal were well set to knock Barcelona out (My view). Also in Semi Final, you might not agree with Mourinho but you just can’t deny the overt theatrics of Busquet, Alves and Pedro. Also Pepe’s sending off has to be up there with Van Persie’s. As for the beautiful game Madrid had effectively killed it for that match(you just can’t deny it, the exact postion that Messi made that for the first goal is where Pepe would have been standing to stop him).&lt;/p&gt;
+
+&lt;p&gt;The final is a different story altogether. They completely outplayed Manchester United and they were simply spectacular. But does this make them the best side ever. I am a Liverpool fan myself but even I agree that Ferguson is one of the best Managers out there but this final is something he would like to forget at the earliest. I mean the tactics that he played, anybody and everybody who follows soccer could have guessed them, so then do you expect Barca to be stupid. He played a completely English 4-4-2 but didn’t use the highly physical English Game and the first 2 goals were simply defensive mistakes. There is a limit to being sporting and you just can’t use that as a Shield to hide that you were very bad on that day. This when Rooney showed that you can beat Barca’s defence.&lt;/p&gt;
+
+&lt;p&gt;People also have a habit of pointing out that Barcelona’s dominance by pointing to the Possession %age and the Shots on target but seriously even you wouldn’t believe your point. Who cares you if you keep the ball, Spain in their first match of last year’s World Cup dominated the whole affair against Switzerland but did they win, I don’t think so. Barcelona dominated possession against Inter last year but you get the point now.&lt;/p&gt;
+
+&lt;p&gt;In the midst of all this I do not want to say that they are not that good, you have to be stupid to think that they are a truly spectacular side with one of the best players ever to play on that pitch. But I have a problem with you equating them to sides like the legendary Real Madrid of Di Stefano and Puskas or the total football side of Cryuff.  5 European Cups in 5 years is what makes you the best ever.&lt;/p&gt;
+
+&lt;p&gt;Similarly AC Milan had 3 finals in 5 years and if not for 11 Reds they would have had 3 European Cups. But do we consider them to be the greatest ever no we don’t and let’s not point out the Serie A results here we have to remember the whole match fixing saga.&lt;/p&gt;
+
+&lt;p&gt;Another thing I have against Barcelona is their glaring Lack of Depth, I mean it took one whole European Football season + a whole World Cup Campaign to get Xavi injured now either Xavi is Superman or the La Liga is a joke. I do really want to see this side play in the high physical tempo of the English game and then compete on all fronts with this squad.  I also want to see Barcelona play in a league where there are atleast 10 matches where you will see good completion and not just 2, a league where the difference in GD of 2 and 3 is not 49, where 2 and 3 are not separated by 21 points but where 21 points seperates 1 and 6 and a goal difference of 49 seperates 1 and 15.&lt;/p&gt;
+
+&lt;p&gt;To sum up my point they are good even better than that but not the best ever. They need  to prove a lot before that, Arsenal, Liverpool, Inter Milan, Manchester United, Real Madrid have all shown us recent years that they can be beaten as any other side and had the pressure not gotten to Ferguson we might have seen a different result altogether.&lt;/p&gt;
+
+&lt;p&gt;Ps : I know it is all messed up but correct me if I am wrong.&lt;/p&gt;
+
+&lt;p&gt;Pps : yes I do support Real a bit, but just a bit.&lt;/p&gt;
+
+&lt;p&gt;Ppps : I know Liverpool have had a bad 2 years but remember before that second in the league and 2 UCL finals in 3 years is no mean feat and we will be back next year YNWA !&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 31 May 2011 00:02:44 +0530</pubDate>
+        <link>http://yourdomain.com/me/sports/2011/05/31/the-barca-story.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/me/sports/2011/05/31/the-barca-story.html</guid>
+        
+        <category>AC Milan</category>
+        
+        <category>barcelona</category>
+        
+        <category>Football</category>
+        
+        <category>Guardiola</category>
+        
+        <category>Liverpool</category>
+        
+        <category>Messi</category>
+        
+        <category>Real Madrid</category>
+        
+        <category>Sports</category>
+        
+        <category>UCL</category>
+        
+        
+        <category>me</category>
+        
+        <category>sports</category>
+        
+      </item>
+    
+      <item>
+        <title>Bored Summer Ramblings</title>
+        <description>&lt;p&gt;&lt;em&gt;*So Second year of college is over and now a face a long and free summer, hence the ramblings.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://scarface09023.files.wordpress.com/2011/05/endless-summer2.jpg&quot;&gt;&lt;img src=&quot;http://scarface09023.files.wordpress.com/2011/05/endless-summer2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;You know how in school when the summer holidays seemed short and they used to be 2 months when I was in primary school and by the time I came to high school they were only 5 weeks long. And don’t forget the Holiday Homework. I hated that the most in the world; you get ever decreasing holidays and ever increasing homework bloody hell to that. Now cut to college and I have 8 working months in a year divided over 2 semesters and 1 month off in the winter and 3 months off in the summer. These 3 months are completely free with no work whatsoever, now had you given me this opportunity a few years back in school I would have mistaken you for God, heck not mistaken you would be my God but surprisingly it does not seem all that fun anymore.&lt;/p&gt;
+
+&lt;p&gt;What the hell happened to me in 2 years, well I can guarantee that there was no head injury or accident. I have my own theories about this but I don’t know how correct they will be.  You know for the vacations to be fun you need others also to have vacations otherwise they just turn in to long sleep+facebook fests.&lt;/p&gt;
+
+&lt;p&gt;Also I have been actively trying to find work over the summer and even that has gone weird. I got accepted at 3 different places and left one selected the other and still waiting on the third. The one that I accepted (with my luck) has started in the slowest way possible and I am basically workless at least till the end of June. I have even tried giving myself away as free labour but even that couldn’t land me some work. (That sentence didn’t sound right, did it?) It is hard to believe I am now looking for work when I can lay around and laze all day long for three complete months, my college has brainwashed me I think and it SUCKS!&lt;/p&gt;
+
+&lt;p&gt;On top of this my school friends have exams and my college friends are freakishly busy idiots and I haven’t been out a single day although I have had vacations for a month now, sad story mine.(to top that I couldn’t catch either the IPL Final nor the Champion’s League Final, SHIT SHIT Bloody SHIT !) Heck I now feel that asking some girl out would have been easier than getting my friends to go for a movie and that when they also have completely workless vacations for 3 months, those bloody idiots. And nowadays even the TV shows that I watch are on Season Break. Though I started watching &lt;a href=&quot;http://www.hbo.com/game-of-thrones/index.html&quot;&gt;Game of Thrones&lt;/a&gt; based on a book series called &lt;a href=&quot;http://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire&quot;&gt;A song of Ice and Fire&lt;/a&gt;  cool show as well as &lt;a href=&quot;http://www.sho.com/site/borgias/home.sho&quot;&gt;The Borgias&lt;/a&gt; they seem fine till now but not too great either.  (Suggest some good ones that I might start now, I have seen Scrubs, HIMYM, The Big Bang Theory, Friends, House hopefully a good comedy series.)&lt;/p&gt;
+
+&lt;p&gt;Even this post is a result of not having anything to do. Though my vacations are usually good for the health of my blog.  :D&lt;/p&gt;
+
+&lt;p&gt;Atleast I am going  home for 2 weeks and might just roam around Kerala, that should be Fun, God’s own Country Baby. (I curiously want to check out the backwaters they seem SICK (the cool word for Superb) on television).&lt;/p&gt;
+
+&lt;p&gt;PS : I don’t think this post makes sense, does it to you ?&lt;/p&gt;
+
+&lt;p&gt;PPS: My college friends are bloody idiots, and they SUCK !&lt;/p&gt;
+
+&lt;p&gt;PPS: Heard this great song on the Scrubs Soundtrack and the tune just suits the lazy summer.&lt;/p&gt;
+
+&lt;p&gt;[youtube=http://www.youtube.com/watch?v=FmnDXRJ7btE]&lt;/p&gt;
+
+&lt;p&gt;PPPS: If you are reading this and you are free and in Delhi or NCR except during(5th  June to 15th June) and would like to watch a movie please do tell me I am that desperate.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 29 May 2011 16:23:11 +0530</pubDate>
+        <link>http://yourdomain.com/me/2011/05/29/bored-summer-ramblings.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/me/2011/05/29/bored-summer-ramblings.html</guid>
+        
+        <category>me</category>
+        
+        <category>my college life</category>
+        
+        <category>summer</category>
+        
+        
+        <category>me</category>
+        
+      </item>
+    
+      <item>
+        <title>Tale of the Temples, lakes and the paranthas! </title>
+        <description>&lt;p&gt;&lt;em&gt;*This was my first trip with my college friends and needless to say, it was LEGENDARY!*&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;[caption id=”attachment_128” align=”aligncenter” width=”300” caption=”The Golden Temple !”]&lt;strong&gt;&lt;a href=&quot;http://scarface09023.files.wordpress.com/2011/01/2011-01-08-14-25-09.jpg&quot;&gt;&lt;img src=&quot;http://scarface09023.files.wordpress.com/2011/01/2011-01-08-14-25-09.jpg?w=300&quot; alt=&quot;All of Us at the Golden Temple !&quot; /&gt;&lt;/a&gt;&lt;/strong&gt;[/caption]&lt;/p&gt;
+
+&lt;p&gt;The seeds of this trip were sown long back by one of the hostellers who hadn’t seen the golden city. The way the people are in our hostel, the idea fizzled out. But finally in the third semester we made a concrete plan to finally have our first trip. Even then the idea was lost by the deliberating crowd at IIIT (Believe me when I say that everything is thought about so much, we put wedding plannings in India to shame).&lt;/p&gt;
+
+&lt;p&gt;It was in December 2010 that we finally decided to go and made plans for going in the first week of January. The tickets were bought and the hearts were set. The original Fellowship had 7 people ( would have gone for 9 , but we do not support plagiarism). The date set was 7th January, the first weekend of the fourth semester.&lt;/p&gt;
+
+&lt;p&gt;Now let’s cut to the first week of college and all of us were raring to go ( I do make it sound like an adventure , don’t I !). When we lose the first man, let’s call him Loser 1. Dude had recently gotten Chicken Pox and his folks were worried about the dude catching Pneumonia! (WTF! Right?)  Then started his lengthy deliberations with his parents and also grandparents. This lengthy discourse stayed on for like 4 days and in the end he couldn’t come for some godforsaken reason. This happened on the morning of 6th January 2010. Now at 11:00 pm. I get a call from Loser 2 &lt;strong&gt;&lt;em&gt;LOSER&lt;/em&gt;&lt;/strong&gt; 2 (the bold letters and the larger font to signify how big an arse he is. Also dude if you are reading this , SCREW YOU !) who couldn’t come because “his Mom talked to his Dad” (I swear That is the exact reason !)&lt;/p&gt;
+
+&lt;p&gt;Now we are done with the Losers we now cut to 6:00 pm 7th January when 2 Idiots from our group were still loitering in DC(District Centre, Janakpuri). Finally they arrived at 6:30pm and we left for the station but we came to know that the 8:00pm train was leaving at 10:00pm now.&lt;/p&gt;
+
+&lt;p&gt;We reach the station finally at 10:15pm and the train has been postponed to 11:45pm, then the first thing we do is, we spread blankets on the platform and play cards for 45 minutes.&lt;/p&gt;
+
+&lt;p&gt;*&lt;em&gt;For got to mention the incident of RD’s phone. You see RD is at a chemist buying headache pills ( _:P&lt;/em&gt; ) when somebody pulls the phone out of his pocket, luckily it rings at the exact same time and he catches the guy. ! Listen to the Baap of all excuses (NON Desis Baap = Father) they guy says “Sir, phone baj rha tha, main to aapko utha ke de rha tha ! ” (NON Desis it means, Sir, your phone was ringing and I was just giving it to you!) Funny Right, this was followed by a lengthy discussion between RD and the guy which is not meant for public blogs! *_&lt;/p&gt;
+
+&lt;p&gt;By now the train has been postponed to 1:00 am, 8th January. (I forgot to mention, the train is the Chattisgarh Express, and the train Number starts from 8 (about this , if you want the details talk to a friend of mine , for now just know that the trains from number 8 suck !!) and Delhi is Freaking Freezing at this time and Fog all around) Then 3 people, let’s call them LG, SR and RD go out for fresh air leaving me and AN there at the platform. At this time me and AN decide that come what may, we are going to Amritsar and there is no looking back.&lt;/p&gt;
+
+&lt;p&gt;When we finally see the train postponed to 2:30 am we realize that taking this train might even result in us missing the return train for 11:55 pm later that day. So we take a cab at 12:30am to Kashmere Gate ISBT and arrive their at 1:00am. (This Cab ride involved RD showing off his NFS skills by reading the Speedometer and other such philosophical words from RD)&lt;/p&gt;
+
+&lt;p&gt;We reach to find that there is no Bus for Amritsar, and the nearest bus is too Jalandhar, 2 hours from Amritsar. Dedicated souls that we are we never looked back and took the bus to Jalandhar. Well the bus ride is hard to explain in words, it was a rickety old Roadways bus and the driver could not care less if he had humans or wooden boards in the back. Also it was so cold that you keep yourself in the freezer for like three days straight and you would not come close to that bus ride.&lt;/p&gt;
+
+&lt;p&gt;Each one of us had at least 5 layers of clothes and a blanket on top of it, and even then we were freezing our arses off. It was so cold that our feet hurt even though we had socks and shoes on. Believe me if there was a window or door open, even a millimetre anywhere in the bus, you could feel the wind on your face. Add to that there was a fog so dense you could not see anything outside your window and the driver didn’t seem to care less, he drove on without any care in the world also the driver had a unique tendency to accelerate on the bends in the dense fog. (But kudos to him for not crashing the Bus, though there were a few bumps which lifted our arses up by atleast a foot!)&lt;/p&gt;
+
+&lt;p&gt;This journey is one which every one of us shall remember for the rest of our lives. All of it, the aching feet, the freezing wind, the jaw shattering bumps and the blinding Fog.&lt;/p&gt;
+
+&lt;p&gt;We finally reached Amritsar at 9:00 am the next morning (This also involved a bus journey from Jalandhar to Amritsar which was comparatively uneventful!). Now we got down at Amritsar and there was such a freezing wind out there that it was hard to stand straight out there. But here I would like to say how proud I am of my dad, there was a car waiting for us there, and also a guest room. You would not realize the value of these things, but the condition we were in at that time; it was a gift from the heavens.&lt;/p&gt;
+
+&lt;p&gt;The whole day was simply amazing, everything, the Golden Temple, Wagah Border and the food at night. Even the Tandoori Chicken at night was amazing. Also the Burger, the lassi and what not.&lt;/p&gt;
+
+&lt;p&gt;But the events of the day are a tale for another day.&lt;/p&gt;
+
+&lt;p&gt;We finally landed up at the station at 11:30 pm for the train at 11:55 pm. WE heard at least 10 announcements that stated that our train was on time, but kudos to Indian Railway, the train arrived at like 1:15 am. (You would think that this is not that big a deal, but in that freezing weather and after more than 30 sleepless hours, it was bloody torture! Add to it the stupid announcements stating that the train was on time!) The highlight of this was the Chattisgarh Express (For all those who do pay attention to details, first of all Get a Life , and second , yeah this is the train which was supposed to get us to Amritsar) arriving at 12:45 am. This was more than 20 hours late.&lt;/p&gt;
+
+&lt;p&gt;The return journey was also a deathly freezing experience, but by now you do get the picture!&lt;/p&gt;
+
+&lt;p&gt;Ps: You could say that, we were bloody stupid going up North in the start of January, but Screw You!&lt;/p&gt;
+
+&lt;p&gt;PPs: I love my Dad, without him, the trip would have been a freezing disaster!&lt;/p&gt;
+
+&lt;p&gt;Until Next Time People!&lt;/p&gt;
+
+&lt;p&gt;Cheers!&lt;/p&gt;
+
+&lt;p&gt;YUSSSS !!&lt;/p&gt;
+
+&lt;p&gt;(You won’t get it , it’s a personal joke with AN ,LG, RD, SR )&lt;/p&gt;
+</description>
+        <pubDate>Sun, 30 Jan 2011 20:05:47 +0530</pubDate>
+        <link>http://yourdomain.com/college/me/2011/01/30/tale-of-the-temples-lakes-and-the-paranthas.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/college/me/2011/01/30/tale-of-the-temples-lakes-and-the-paranthas.html</guid>
+        
+        <category>Amritsar</category>
+        
+        <category>me</category>
+        
+        <category>mera college mahaan !</category>
+        
+        <category>my college life</category>
+        
+        <category>The Golden City</category>
+        
+        
+        <category>college</category>
+        
+        <category>me</category>
+        
+      </item>
+    
+      <item>
+        <title>My College Life: 12 months down, 20 to go – Part -2</title>
+        <description>&lt;p&gt;&lt;em&gt;*Well my Third semester is over; I am a second year student and a sophomore in college. And since my college has given me too much of vacations, I write again.*&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;_ _&lt;/p&gt;
+
+&lt;p&gt;[caption id=”attachment_119” align=”aligncenter” width=”300” caption=”Did not have any photo so just put this up.”]&lt;strong&gt;&lt;a href=&quot;http://scarface09023.files.wordpress.com/2010/12/06092010105.jpg&quot;&gt;&lt;img src=&quot;http://scarface09023.files.wordpress.com/2010/12/06092010105.jpg?w=300&quot; alt=&quot;HAAHAHAHAHAHAHA&quot; /&gt;&lt;/a&gt;&lt;/strong&gt;[/caption]&lt;/p&gt;
+
+&lt;p&gt;_ _&lt;/p&gt;
+
+&lt;p&gt;So, my Third semester started a month later than everybody else. But there I turned up in September, 8 kgs lighter in just 20 days (seriously 8kgs in 20 days beat that you &lt;em&gt;sauna slim belts&lt;/em&gt; and &lt;em&gt;VLCC’s&lt;/em&gt;). In the words of Master Yoda from Star Wars: “A_ good weight loss program, screwed up liver is_”. (Ok, those might not have been the exact words but I am sure that’s what he meant.)&lt;/p&gt;
+
+&lt;p&gt;My first day in college, my first class and I come to know there is a test tomorrow. (Beat that for a welcome!)Well, needless to say the test sucked (which one doesn’t). Then somebody genius decides to tell me that attendance has been cancelled a week later. (Come on!) A week of classes for no returns, SHIT!&lt;/p&gt;
+
+&lt;p&gt;The first week went by in a haze, had to catch up with every one, a lot seemed to have happened especially on the fresher’s night.&lt;/p&gt;
+
+&lt;p&gt;To explain that I will have to tell you of three groups let’s call them group A, group B and group C.(ingenious names right !).&lt;/p&gt;
+
+&lt;p&gt;Now Group A were the ones who went out in Mr X’s car and performed some &lt;em&gt;activities&lt;/em&gt;. Group B performed the same activities as Group A in the hostel and Group C waited for Mr. A-201-B who was present in Group A. Now to cut the long story short the &lt;strong&gt;_Great _&lt;/strong&gt;Group B got caught, (now loads of stories going around about this in the hostel (more importantly about their stupidity), well since I wasn’t present I wouldn’t comment  ;) ). Earlier some N.S.I.T kids had also been caught performing the same activity (well in a more exuberant manner) this led to the whole checking stupidity.  This led to the checking of all hostel rooms (Mr A-409 had a close shave, all last second clearing and all !). Then Group A returned , Mr A-113(new one) had stuff come out of the wrong end, and Mr. A-201-B(let’s call him donkey now the other name is just too long) had a temporary lack of balance.&lt;/p&gt;
+
+&lt;p&gt;So now Group C caught up with donkey and then (in his own words) asked him to go to the Fresher’s Party which (in his own words again) they shouldn’t have due to his lack of balance. Then (their awesome luck) they ran into the hostel’s caretaker, who didn’t find the donkey’s lack of balance normal. Then they reasoned that donkey had partaken in some activities that led to his lack of balance but he isn’t disturbing anybody else and the rest of them Mr. A-201-A (let’s call him baboon) and Mr. A-202-A (let’s call him buffoon) hadn’t done anything. Now in an example of the great Indian Administrative set-up the Caretaker noted down the names of all three and said I shall differentiate between baboon , buffoon and donkey via an &lt;em&gt;underline.&lt;/em&gt;(If you have guessed this is odd and stupid full points man !)&lt;/p&gt;
+
+&lt;p&gt;Well what happened next is a story to be told in detailed hence it is something for the next post.&lt;/p&gt;
+
+&lt;p&gt;(HAHAHA            )&lt;/p&gt;
+
+&lt;p&gt;Cheers!&lt;/p&gt;
+
+&lt;p&gt;Ps :  before  I end , I would like to give my sympathies to the lost Bag worth Rs.1300.&lt;/p&gt;
+
+&lt;p&gt;(To those who don’t know of just feel sad and I shall explain in the next post.)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;*Statutory warning this story has been reconstructed using the evidence given by buffoon, baboon ,donkey, A-409,A-113 and some other anonymous people. If you find any problem with the given story or are offended in any manner, go screw yourself or write your own blog, IDIOT! *&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 12 Dec 2010 17:08:43 +0530</pubDate>
+        <link>http://yourdomain.com/college/me/2010/12/12/my-college-life-12-months-down-20-to-go-e28093-part-2.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/college/me/2010/12/12/my-college-life-12-months-down-20-to-go-e28093-part-2.html</guid>
+        
+        <category>College</category>
+        
+        <category>IIIT-D</category>
+        
+        <category>mera college mahaan !</category>
+        
+        <category>my college life</category>
+        
+        <category>sarcastic</category>
+        
+        <category>stupid</category>
+        
+        <category>third semester</category>
+        
+        
+        <category>college</category>
+        
+        <category>me</category>
+        
+      </item>
+    
+      <item>
+        <title>My College Life: 12 months down, 20 to go – Part -1</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://scarface09023.files.wordpress.com/2010/12/liver.jpg&quot;&gt;&lt;img src=&quot;http://scarface09023.files.wordpress.com/2010/12/liver.jpg&quot; alt=&quot;An important part of your body&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;*Well my Third semester is over; I am a second year student and a sophomore in college. And since my college has given me too much of vacations, I write again.*&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The shift from the second to the third semester wasn’t very clear for me. You see, I had worked through the summer in my college on a project which involved me spending most part of the three months in college. By the end of the three months though there seemed a change; The counselling was held ( free pizza and ice cream !) then the project ended, well it was about to end when I woke up with fever one day.&lt;/p&gt;
+
+&lt;p&gt;I wake up in the morning burning with fever and thinking this will go away in hours then I shall go to college, next thing you know the fever is 103F, so I try getting ready to go to the doctor and I faint (one thing I always wanted to experience, not something special though!). This part is alright, then somehow I manage to get up to a doctor, he says it’s nothing, prescribes precautionary tests. The fever doesn’t go and we are looking at dengue.&lt;/p&gt;
+
+&lt;p&gt;This is the part that makes sense. Then he also gives you precautionary medicine for malaria and then you lose appetite for a week and finally after two weeks of climaxes and anti-climaxes you are diagnosed with jaundice (well technically it isn’t a disease but who cares!)&lt;/p&gt;
+
+&lt;p&gt;Now I can handle most of the things in life without flinching, but believe me the sight of an injection terrorizes me to no limit, I mean I would, if given a choice, consider suffering rather than an injection. Funny story, you see back in 2002 I banged into a glass door (messy stuff, got 84 stitches in all). So I am lying there, all covered in blood and split open in multiple places , in the emergency room of a hospital and the first thing that comes out of my mouth is “&lt;em&gt;Doc injection mat lagana !&lt;/em&gt;”(For all those who do not understand: “&lt;em&gt;Doc, do anything but an injection&lt;/em&gt;”). This shows you the level of my injection phobia.&lt;/p&gt;
+
+&lt;p&gt;My luck is such that in jaundice you get a blood test every three days. Man I lost more weight due to this than due to the disease.&lt;/p&gt;
+
+&lt;p&gt;Long story short, the first month of this semester, I lay in bed all jaundicy( nice word !) and missed out on  a lot. Missed out the orientation of the new batch, missed out on the fresher party and all the sub-stories associated with it!), missed out on making fun of the football match etc. etc.&lt;/p&gt;
+
+&lt;p&gt;It was very frustrating, worked through the complete holidays and just when the semester was about to start, I get sick.&lt;/p&gt;
+
+&lt;p&gt;Even after that, had a lot of fun this semester.&lt;/p&gt;
+
+&lt;p&gt;Quite a few things happened A-109, A-201-A (double room you see, if you follow my blog he is erstwhile Mr. A 110!) birthdays, my birthday, the pool tournament, the cricket tournament and in the end the three sleepless submission nights.&lt;/p&gt;
+
+&lt;p&gt;Well more in the next post!&lt;/p&gt;
+
+&lt;p&gt;Stay Tuned (Dude if you seriously do, you need some work in life!)&lt;/p&gt;
+
+&lt;p&gt;Cheers!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 07 Dec 2010 18:53:14 +0530</pubDate>
+        <link>http://yourdomain.com/college/me/2010/12/07/my-college-life-12-months-down-20-to-go-e28093-part-1.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/college/me/2010/12/07/my-college-life-12-months-down-20-to-go-e28093-part-1.html</guid>
+        
+        <category>College</category>
+        
+        <category>good</category>
+        
+        <category>mera college mahaan !</category>
+        
+        <category>my college life</category>
+        
+        <category>sarcastic</category>
+        
+        <category>serious</category>
+        
+        <category>third semester</category>
+        
+        
+        <category>college</category>
+        
+        <category>me</category>
+        
+      </item>
+    
+      <item>
+        <title>My College Life: 8 months down, 24 to go – Part -3</title>
+        <description>&lt;p&gt;&lt;em&gt;_Chalo bhai duusre semester ko khatam karein!Why am I writing this, because our college has forever scarred us! We just can’t enjoy free time! Also none of my friends will talk to me anymore as I have too much of free time._&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;[caption id=”attachment_107” align=”aligncenter” width=”300” caption=”Players lined up for the tournament !”]&lt;a href=&quot;http://scarface09023.files.wordpress.com/2010/12/15032010220.jpg&quot;&gt;&lt;img src=&quot;http://scarface09023.files.wordpress.com/2010/12/15032010220.jpg?w=300&quot; alt=&quot;Match ki start&quot; /&gt;&lt;/a&gt;[/caption]&lt;/p&gt;
+
+&lt;p&gt;So the final thing for the Second semester. Only two good things in this semester, “The Fight” and The “Football” tournament.&lt;/p&gt;
+
+&lt;p&gt;Let us start with the fight. Well the parts of it that I know atleast. Well supposedly somebody from our teeny little college fought with somebody from the college which hosts us (very cool right?? Aren’t we the best guests! )&lt;/p&gt;
+
+&lt;p&gt;Now you see my hands are tied in explaining this fight (if you can’t figure out the reason, god help you ! All I will say is that I love my limbs!  )&lt;/p&gt;
+
+&lt;p&gt;Ok so what everybody saw in this is that we know one evening somebody from our college fought rather “had an altercation” with somebody from our host college N.S.I.T. Well this small altercation led to the other guy calling 60 people to help him in his altercating which led to the display of “Mob Behaviour” by the other altercating students in front of the faculty. (Read that 60 people beat up a guy!)&lt;/p&gt;
+
+&lt;p&gt;Now N.S.I.T is a wonderful host but damn do they need a course in common sense. Why do I say this please see below:&lt;/p&gt;
+
+&lt;p&gt;•	Close canteen at 10 pm because opening it late might cause a fight. [Tell me who is more likely to cause a fight , Hundreds of hungry frustrated boys cooped up or hundreds of content boys who have access to food.]&lt;/p&gt;
+
+&lt;p&gt;•	Drink outside, but campus mein no.[Bloody hypocrites]&lt;/p&gt;
+
+&lt;p&gt;•	First month no roaming around after 10 to stop ragging. [Seriously do they take such stupid students]&lt;/p&gt;
+
+&lt;p&gt;•	60 students beat up one single student in front of the full faculty, this has to be pondered over but one students drinks period (no hoopla or anything) you take immediate action.&lt;/p&gt;
+
+&lt;p&gt;•	Have a race in the hostel or Competition in the fest, let others take part and if they win , it isn’t allowed.[Cry babies]&lt;/p&gt;
+
+&lt;p&gt;I have a longer list but please drop in your email id and I shall send it to you.&lt;/p&gt;
+
+&lt;p&gt;Now back to the fight.&lt;/p&gt;
+
+&lt;p&gt;Well we know some altercating led to some more altercating which led to the “Mob Behaviour”. This required to the wise faculty members of N.S.I.T to ponder over the matter. As I said earlier one drunk student who came and slept in his room forced them to take immediate action, bypassing all their rules.&lt;/p&gt;
+
+&lt;p&gt;Now our college also didn’t act like the smarty PhD’s they are also. When 60 people beat up a guy from you college whom do you support? Doesn’t require a PhD does it? Guess they were over qualified for this decision. Then you have your own disciplinary meeting and screw up the guy again, WTF! In the midst of all this I forgot to mention that the poor bloke also lost his Enfield, the beautiful thing was crumpled by 12(not necessarily) angry men.&lt;/p&gt;
+
+&lt;p&gt;All this led to the closing of the all night canteen and time restrictions in the campus which sucks. To the bloke from our college, the main character of the story, “yaar hostel ki waat laga di!” By the way this also led to the cancellation of the third place play off of our football tournament. And not to mention there was also his friend with him through all this. (Didn’t wan’t him to feel left out !)&lt;/p&gt;
+
+&lt;p&gt;In Suspicious circumstances after this incident led to our college removing their board (the one with their name) which led to a whole lot of stories. We were asked to stay in the hostels and not wander about in the night. This was also the first time I saw my Warden. Another interesting thing, the two main involved people , were asked not to come to college for “security” reasons but I saw more of them in the campus after this than I did earlier. This ends the “Fight” part.&lt;/p&gt;
+
+&lt;p&gt;Now the football tournament.&lt;/p&gt;
+
+&lt;p&gt;Well the “tournament” was just an excuse to spend some college money and collect trophies for no apparent reason. Now I guess there were four important teams in the tournament and they were (in no particular order) :&lt;/p&gt;
+
+&lt;p&gt;•	GPFU(The runners up, didn’t  win cause didn’t take me :P)&lt;/p&gt;
+
+&lt;p&gt;•	IIIT hotspurs (The winners , only because I didn’t play :P)&lt;/p&gt;
+
+&lt;p&gt;•	6 Pointers( The big team , literally)&lt;/p&gt;
+
+&lt;p&gt;•	Red Indians(The screamers  literally)&lt;/p&gt;
+
+&lt;p&gt;*_The part where I praise myself take it with a pinch of salt. _&lt;/p&gt;
+
+&lt;p&gt;These were the predicted and actual semi-finalists hence the main teams. Some other teams were Ardeleres (NO idea of the spelling) , Kicks F.C ( In football only legs talk), Non-Players, Silent Screamers (In a world of stupid names this takes the cake).  Silent Screamers did manage to win a game with ultra negative tactics and did create some Suspense in the group stages, giving our in house mathematicians to talk about big things like goal difference etc. but they lost their next game so Poof ! went the suspense. There were one or two interesting games in the group stages mainly the group winners’ vs the group runners up but they also went the predicted way.&lt;/p&gt;
+
+&lt;p&gt;Now the semi-finals were interesting, each batch played with their own batch so created a whole lot of drama. Quite intense matches with loads of shouting and all. Then their came a break in the tournament. The thing with such a small college is that everything is done on mutual understanding ( Yah right !) So the final was delayed for weeks just cause the teams didn’t want to play ,beat that for laziness. Now even though this had drama, intensity , fighting ( HAHAHAHAHA) the major attraction were the Girl Matches. Trust me when I say I have never seen such a crowd at IIIT for anything, and I mean anything. Every-the-hell-body was there. The poor blokes played in the harsh summer in bloody fading light, no support and the girls turn up to play a game of kick the ball/girl and there everybody is.&lt;/p&gt;
+
+&lt;p&gt;To be truthful, all I did in this tournament was turn up for matches and enjoy their free snacks , which were pathetic btw.&lt;/p&gt;
+
+&lt;p&gt;Now to end this post, I would like to give you some memorable quotes from the tournament :&lt;/p&gt;
+
+&lt;p&gt;•	In Football only Legs talk.&lt;/p&gt;
+
+&lt;p&gt;•	Idhar aaio bh&lt;em&gt;**&lt;/em&gt;od.&lt;/p&gt;
+
+&lt;p&gt;•	*****(name not to be disclosed) ball lani nahin aati kya.&lt;/p&gt;
+
+&lt;p&gt;•	A-113 scoring a goal against A-102 and shouting GOAAALLLLLLLLLL  for no apparent reason.&lt;/p&gt;
+
+&lt;p&gt;•	The organizers going  : “&lt;em&gt;Yaar please khel lo  !&lt;/em&gt;”&lt;/p&gt;
+
+&lt;p&gt;•	Last but not the least the cheers (censored) in the girls match.&lt;/p&gt;
+
+&lt;p&gt;*&lt;em&gt;In between all this, Sachin Tendulkar scored the first ODI double Century and screwed up our D.S.A exam but who cares, it was screwed up anyway!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;_ _Cheers all !&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;*Will be back with the next semester soon as I have one whole month with no work at all.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 05 Dec 2010 11:02:35 +0530</pubDate>
+        <link>http://yourdomain.com/college/me/2010/12/05/my-college-life-8-months-down-24-to-go-e28093-part-3.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/college/me/2010/12/05/my-college-life-8-months-down-24-to-go-e28093-part-3.html</guid>
+        
+        
+        <category>college</category>
+        
+        <category>me</category>
+        
+      </item>
+    
+      <item>
+        <title>My College Life: 8 months down, 24 to go – Part -2</title>
+        <description>&lt;p&gt;&lt;em&gt;*Back after long ! why back ? don’t ask me have no idea myself*&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;[caption id=”attachment_102” align=”aligncenter” width=”300” caption=”My campus”]&lt;a href=&quot;http://scarface09023.files.wordpress.com/2010/11/dining_1.jpg&quot;&gt;&lt;img src=&quot;http://scarface09023.files.wordpress.com/2010/11/dining_1.jpg?w=300&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;[/caption]&lt;/p&gt;
+
+&lt;p&gt;The last one ended with basically nothing as I had described nothing. All that I said was Delhi was absolutely freezing in January and our college didn’t like happy children all that much.&lt;/p&gt;
+
+&lt;p&gt;This semester we had 5 subjects after having successfully proven in the first semester that we couldn’t even handle four. (Funny right? well not to us! :P) We had subjects with absolutely cool names and with no apparent respect for the concentration and understanding of 19 year olds. They were (in no specific order) Theory of Computation , Data Structures and Algorithms, Computer Organization , HSS and Systems Management. Well the only good thing about this semester was that you could pass one of the courses based only on the assignments while the rest you couldn’t at all.&lt;/p&gt;
+
+&lt;p&gt;Also this semester everybody to seemed to know everybody (at least the ones they wanted to so it was a relatively happy place) Right at the start of the semester saw Sherlock Holmes which I basically found pathetic.( erstwhile Mr. A-110 , erstwhile because we have changed rooms in the Second Year, did find it good but I fail to see how.)&lt;/p&gt;
+
+&lt;p&gt;This semester our host college NSIT had 2 fests, one technical and One inter-college.( I thought failed to see the difference as even the technical one had a laser show which was an excuse for about 200 people to dance in a ground ! , but who cares ! )   There was cheap Go-karting in this fest though, one of their best attractions and another novel idea was the Defence stall where the army had some guns on show which you could try out in different poses from Hollywood flicks (sans ammunition of course )&lt;/p&gt;
+
+&lt;p&gt;I don’t remember anything much interesting happening in the start of the semester. One or two incidents happened in this semester ( The football tournament and the Fight) but nothing much in the starting . We tried out some different eating places in Dwarka though (mind you Dwarka seems to have a dearth of em ! , South Delhi rocks ol the way !)&lt;/p&gt;
+
+&lt;p&gt;Ciao for now will describe the big events in the next post, this one was just to tell everybody that I am alive and kicking.&lt;/p&gt;
+
+&lt;p&gt;Cheers !&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Nov 2010 00:23:54 +0530</pubDate>
+        <link>http://yourdomain.com/college/me/2010/11/01/my-college-life-8-months-down-24-to-go-e28093-part-2.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/college/me/2010/11/01/my-college-life-8-months-down-24-to-go-e28093-part-2.html</guid>
+        
+        <category>College</category>
+        
+        <category>IIIT-D</category>
+        
+        <category>me</category>
+        
+        <category>mera college mahaan !</category>
+        
+        <category>my college life</category>
+        
+        
+        <category>college</category>
+        
+        <category>me</category>
+        
+      </item>
+    
+  </channel>
+</rss>
