@@ -7,17 +7,22 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Lakshay Pandey
+tagline:          'All who wander are not lost'
+description:      'Personal page for Lakshay Pandey'
 url:              http://hyde.getpoole.com
 baseurl:          /
+blog_url: /blog
+photoblog_url: https://photoblog.lakshaypandey.com
+contact_url: /contact
+resume_url: /public/Lakshay_Pandey_Mar_2015.pdf
 
 author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
 
 paginate:         5
+paginate_path: "blog/page:num/"
 
 # Custom vars
 version:          2.1.0
