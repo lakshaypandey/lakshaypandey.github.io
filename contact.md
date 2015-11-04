@@ -4,7 +4,7 @@ title: Contact
 ---
 
 
-If you would like to connect with me , I am available on
+If you would like to connect with me, I am available on
 #### Contact
 * **Email**: contact[at]lakshaypandey[dot]com
 * **Twitter**: [@lakshaypandey](https://twitter.com/lakshaypandey)
