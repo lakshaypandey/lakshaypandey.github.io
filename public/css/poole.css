@@ -76,9 +76,9 @@ a strong {
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
 a:focus {
-  /*text-decoration: underline;
-  font-style: italic;*/
-  font-weight: 800;
+  opacity: 0.5;
+
+
 }
 
 /* Headings */
