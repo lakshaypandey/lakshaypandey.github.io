@@ -27,7 +27,7 @@ author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
 gems: [jekyll-paginate, jekyll-gist]
-paginate:         5
+paginate:         20
 paginate_path: "blog/page:num/"
 
 # Custom vars
